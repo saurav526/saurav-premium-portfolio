@@ -2,6 +2,7 @@
 
 A responsive, dark futuristic portfolio with a 3D interactive hero, animated sections, expandable project case studies, resume-based content, contact form UI and a portfolio Q&A assistant.
 
+
 ## What's included
 
 - React + TypeScript + Vite frontend
